@@ -1,0 +1,18 @@
+{
+    "name": "dilan2804/verbinden",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dilan2804\\Verbinden\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dilan Akdogan",
+            "email": "dakdogan@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
